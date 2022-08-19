@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rodrigo de Andrade 🖐️👋
 
-🖥️ Student of Multiplatform Software Development. 🇪🇳
+🖥️ Student of Systems Analysis and Development. 🇪🇳
 
-🖥️ Estudiante de Desarrollo de Software Multiplataforma. 🇪🇸
+🖥️ Estudiante de Análisis y Desarrollo de Sistemas. 🇪🇸
 
 🖥️ Estudante de Deswenvolvimento de Software Multiplataforma. 🇧🇷
 
